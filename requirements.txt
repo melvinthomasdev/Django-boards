@@ -37,6 +37,6 @@ scipy==1.3.1
 six==1.12.0
 sqlparse==0.3.0
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.8
 zipp==0.6.0
